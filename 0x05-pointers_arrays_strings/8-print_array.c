@@ -15,7 +15,7 @@ for (array_index = 0; array_index < n; array_index++)
 printf("%d", a[array_index]);
 if (array_index != (n - 1))
 {
-printf(",");
+printf(", ");
 }
 }
 putchar('\n');
