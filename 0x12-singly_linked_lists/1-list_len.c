@@ -3,7 +3,7 @@
 
 /**
  * list_len - Returns Numbers of Elements Linked in a List
- * @h: Pointer to List of list_t 
+ * @h: Pointer to List of list_t
  * Return: number of elements in h
  */
 
